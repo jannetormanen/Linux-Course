@@ -1,2 +1,2 @@
-# Linux-Course
-Homework reports for Haaga-Helia course
+# Linux-kurssi Haaga-Helia
+Kotitehtävien raportit löytyvät täältä.
